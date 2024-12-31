@@ -1,0 +1,114 @@
+
+/* TAMPILAN NAVIGASI */
+.warna-navbar {  
+  background-color: #4B70F5 !important;
+}
+
+.brand {
+  color: white;
+}
+
+.button-klik {
+  background-color: #33c303 !important;
+}
+
+.button-klik:hover {
+  background-color: #279502 !important;
+}
+
+.ikon-navbar {
+  color: white !important;
+}
+
+.keluar {
+  text-decoration: none !important;
+  color: white !important;
+}
+/* TAMPILAN NAVIGASI END*/
+
+/* TAMPILAN LOGIN */
+.background-login {
+  background-color: #4B70F5;
+}
+
+.layout-login {
+  background-color: white;
+}
+
+.btn-primary {
+  background-color: #4B70F5 !important;
+}
+
+.btn-primary:hover {
+  background-color: #0331d6 !important;
+}
+
+.form-check-label {
+  font-size: 13px;
+  color: rgb(73, 72, 72);
+}
+
+.forgot-link {
+  text-decoration: none;
+  color: inherit;
+}
+.forgot-link:hover {
+  text-decoration: underline;
+}
+/* TAMPILAN LOGIN END */
+
+/* SIDEBAR */
+.nav-link:hover {
+  background-color: grey;
+}
+/* SIDEBAR END */
+
+/* DASHBOARD */
+.display-4 {
+  font-weight: bold !important;
+}
+
+.card-body-ikon {
+  position: absolute;
+  z-index: 0;
+  top: 25px;
+  right: 4px;
+  opacity: 0.4;
+  font-size: 90px;
+}
+
+.bg-shopee {
+  background-color: #EE4D2D !important;
+}
+
+.text-shopee {
+  color: #EE4D2D !important;
+}
+
+.btn-shopee {
+  background-color: #EE4D2D !important;
+}
+
+.bg-facebook {
+  background-color: #3b5998 !important;
+}
+.text-facebook {
+  color: #3b5998 !important;
+}
+
+.btn-facebook {
+  background-color: #3b5998 !important;
+}
+/* DASHBOARD END */
+
+/* MASTER USER */
+.detail {
+  padding-right: 0px !important;
+}
+/* MASTER USER END */
+
+/* MASTER PRODUK */
+.bg-produk {
+  background-color: #f1f1f1 !important;
+}
+/* MASTER PRODUK END */
